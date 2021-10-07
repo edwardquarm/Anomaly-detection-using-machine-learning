@@ -16,7 +16,16 @@ a prediction of possible faults.
 Project is created with:
 * Python
 
-Dataset is saved in:
-* Matlab "mat" file
+## Dataset
+There are 6 recordings of magnetic flux measured on a supra conducting magnet.
+
+* Signal1 to Signal6 contains the magnetic flux. It is a regularly sampled signal (Te=5ms)
+
+* Jump1 to Jump6 is a boolean signal of the same length as Signal. When a row in Jump1 to Jump6 is equal to 1, a flux jump is present. 
+Jump1 to Jump6 thus localizes periods of time when a flux jump occurred.
+
+* Dataset is saved in CSV file format.
+
+
 	
 ## Setup
