@@ -7,8 +7,8 @@
 
 ## General info
 
-There is a need to identify abnormalities in data so as to predict faults in equipments way before they break down.
-This project uses concepts statistics such as mean and variance to build a sliding window that learns from the data and makes 
+There is a need to identify abnormalities in sensor reading from equipment so as to predict faults in equipments way before they break down.
+This project uses statistics concepts such as mean and variance to build  a fault detection algorithm using a sliding window that learns from the sensor data and makes 
 a prediction of possible faults.
 
 	
