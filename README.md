@@ -1,4 +1,4 @@
-# fault-detection-using-machine-learning
+# Anomaly-detection-using-machine-learning
 
 ## Table of contents
 * [General info](#general-info)
