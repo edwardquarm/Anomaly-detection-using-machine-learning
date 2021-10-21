@@ -1,11 +1,11 @@
 # Anomaly-detection-using-machine-learning
 
 ## Table of contents
-* [General info](#general-info)
+* [Motivation](#Motivation)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## Motivation
 
 There is a need to identify abnormalities in sensor data from equipment so as to predict faults in equipments way before they break down.
 This project uses statistics concepts such as mean and variance to build  a fault detection algorithm using a sliding window that learns from the sensor data and makes prediction on possible faults.
@@ -13,10 +13,17 @@ This project uses statistics concepts such as mean and variance to build  a faul
 	
 ## Technologies
 Project is created with:
+* jupyter notebook
+
+Code is written in:
 * Python
 
+Methods used are:
+* Statistics
+* Data Visualization
+
 ## Dataset
-There are 6 recordings of magnetic flux measured on a supra conducting magnet.
+The dataset for this project is 6 recordings of magnetic flux measured on a supra conducting magnet.
 
 * Signal1 to Signal6 contains magnetic flux readings. Magnetic flux readings are regularly sampled signal (Te=5ms)
 
