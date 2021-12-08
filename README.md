@@ -3,7 +3,7 @@
 ## Table of contents
 * [Motivation](#Motivation)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Dataset](#dataset)
 
 ## Motivation
 
@@ -32,6 +32,3 @@ Jump1 to Jump6 thus localizes periods of time when a flux jump occurred.
 
 * Dataset is saved in CSV file format.
 
-
-	
-## Setup
